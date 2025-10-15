@@ -1,4 +1,4 @@
-# 🥕 Sistema de Clasificación de Verduras con IA
+#  Sistema de Clasificación de Verduras con IA
 ### Visión Artificial y Reconocimiento de Voz
 
 Sistema dual de clasificación automática que combina **K-Means** para identificación de imágenes y **KNN** para reconocimiento de comandos de voz.
