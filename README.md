@@ -139,9 +139,6 @@ Ver Informe para detalles sobre:
 - [ ] Deploy como aplicación web
 - [ ] Optimización para edge devices (Raspberry Pi)
 
-##  Licencia
-
-MIT License - ver [LICENSE](LICENSE) para más detalles
 
 ##  Autor
 
